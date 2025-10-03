@@ -1,3 +1,9 @@
+/*NAME:JOSECK SHAMBI MSHILLA
+ REG NO:CT101/G/26417/25
+ */
+
+
+
 // C program to estimate if a customer is eligible for a loan
 
 
