@@ -1,5 +1,7 @@
 
-
+/*NAME:JOSECK SHAMBI MSHILLA
+ REG NO:CT101/G/26417/25
+ */
 
  
  
@@ -24,4 +26,5 @@
   printf("Introductionto programming and problem solving\n");
   
   
+
   }
