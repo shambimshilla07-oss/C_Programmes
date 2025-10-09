@@ -1,3 +1,9 @@
+/*Name:Mshilla Joseck Shambi
+Reg no:CT101/G/26417/25*/
+
+
+
+
 #include<stdio.h>
 
 int main() {
