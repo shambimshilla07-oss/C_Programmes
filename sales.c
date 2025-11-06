@@ -1,3 +1,12 @@
+/* JOSECK SHAMBI MSHILLA
+    CT101/G/26417/25*/
+
+
+
+
+
+
+
 #include <stdio.h>
 
 int main() {
